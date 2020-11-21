@@ -41,7 +41,8 @@ var app = new Vue({
                 detail: "เว็บปลอม (ไม่แนะนใช้จริง) มีการเก็บฐานข้อมูล Pythonanywhere Hosting",
                 tech: "HTML, CSS",
                 extra:"Python, Django",
-                danger:"ไม่กรอกข้อมูลจริง",
+                danger:"ห้ามกรอกข้อมูลจริง",
+                recommend:"Recommend : PC",
                 date: "Nov, 14 2020"
             },
             {
@@ -67,7 +68,7 @@ var app = new Vue({
                 detail: "แอพพลิเคชั่น COVID-19 TH ",
                 tech: "",
                 extra:"React Native",
-                recommend:"IOS",
+                recommend:"Recommend : IOS",
                 date: "Nov, 22 2020"
             },
         ],
