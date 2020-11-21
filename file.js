@@ -60,22 +60,26 @@ var app = new Vue({
         mobile: [
             {
                 id: 0,
-                title: "soon...",
-                image: "https://i.imgur.com/QNwTjnN.png",
-                link: "#",
-                subject: "soon...",
-                detail: "soon..."
+                image: "./photo/COVID-19 TH.png",
+                title: "COVID-19 TH",
+                code:"https://github.com/fourthedition/covid-newnormal-th",
+                web: "https://expo.io/@fourth_edition/projects/COVID-19_TH",
+                detail: "แอพพลิเคชั่น COVID-19 TH ",
+                tech: "",
+                extra:"React Native",
+                recommend:"IOS",
+                date: "Nov, 22 2020"
             },
         ],
 
-        upcoming: [
+        coming: [
             {
                 id: 0,
-                title: "soon...",
-                image: "https://i.imgur.com/QNwTjnN.png",
-                link: "#",
-                subject: "soon...",
-                detail: "soon..."
+                title: "Comming Soom",
+                image: "Comming Soom",
+                link: "Comming Soom",
+                subject: "Comming Soom",
+                detail: "Comming Soom"
             },
             
         ]
