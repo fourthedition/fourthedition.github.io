@@ -40,7 +40,7 @@ var app = new Vue({
                 web: "http://fourthit.pythonanywhere.com/",
                 detail: "เว็บปลอม (ไม่แนะนใช้จริง) มีการเก็บฐานข้อมูล Pythonanywhere Hosting",
                 tech: "HTML, CSS",
-                extra:"Django",
+                extra:"Python, Django",
                 danger:"ไม่กรอกข้อมูลจริง",
                 date: "Nov, 14 2020"
             },
