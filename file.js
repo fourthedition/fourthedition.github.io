@@ -54,6 +54,7 @@ var app = new Vue({
                 detail: "เว็บนำเสนอโครงแอพลิเคชั่น COVID-19 TH React-Native",
                 tech: "HTML, CSS",
                 extra:"Scrollrevealjs",
+                recommend:"Recommend : PC, Tablet",
                 date: "Nov, 21 2020"
             },
             
