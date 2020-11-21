@@ -72,14 +72,28 @@ var app = new Vue({
             },
         ],
 
-        coming: [
+        designer: [
             {
                 id: 0,
-                title: "Comming Soom",
-                image: "Comming Soom",
-                link: "Comming Soom",
-                subject: "Comming Soom",
-                detail: "Comming Soom"
+                image: "./photo/prototype1.png",
+                title: "Basic Prototype ไทยชนะ",
+                code:"https://drive.google.com/file/d/1jvG-_2yDcIKU81NEwOEe2N9nKaGjEQMN/view?usp=sharing",
+                web: "https://g7puyp.axshare.com/#id=5fnk3u&p=main",
+                detail: "Basic Prototype ไทยชนะ",
+                tech: "",
+                extra:"Axure RP 9",
+                date: "Aug, 27 2020"
+            },
+            {
+                id: 0,
+                image: "./photo/prototype2.png",
+                title: "Basic Prototype COVID-19 TH",
+                code:"https://drive.google.com/file/d/1uuXyRSki-OAkvEH1SSm-ohg4jqTEW7LE/view?usp=sharing",
+                web: "https://x7x7x8.axshare.com/#id=qxvs8a&p=covid_page",
+                detail: "Basic Prototype COVID-19 TH",
+                tech: "",
+                extra:"Axure RP 9",
+                date: "Oct, 7 2020"
             },
             
         ]
