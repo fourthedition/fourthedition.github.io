@@ -85,7 +85,7 @@ var app = new Vue({
                 date: "Aug, 27 2020"
             },
             {
-                id: 0,
+                id: 1,
                 image: "./photo/prototype2.png",
                 title: "Basic Prototype COVID-19 TH",
                 code:"https://drive.google.com/file/d/1uuXyRSki-OAkvEH1SSm-ohg4jqTEW7LE/view?usp=sharing",
