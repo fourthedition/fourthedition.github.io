@@ -97,7 +97,44 @@ var app = new Vue({
                 date: "Oct, 7 2020"
             },
             
-        ]
+        ],
+
+        certificate: [
+            {
+                id: 0,
+                image: "./photo/cer3.jpg",
+                title: "CHULA MOOC",
+                detail: "Intro to Data Analytics and Big Data",
+                tech: "Online Class",
+                date: "Oct, 31 2019",
+            },
+            {
+                id: 1,
+                image: "./photo/cer1.jpg",
+                title: "THAI MOOC",
+                detail: "การสร้างหน้าเว็บเบื้องต้นด้วย HTML และ CSS",
+                tech: "Online Class",
+                date: "Dec, 14 2019",
+            },
+            {
+                id: 2,
+                image: "./photo/cer2.png",
+                title: "THAI MOOC",
+                detail: "การออกแบบและพัฒนาเว็บไซค์เพื่อรองรับการแสดงผลบนเคลื่อนที่",
+                tech: "Online Class",
+                date: "Dec, 18 2019",
+            },
+            {
+                id: 3,
+                image: "./photo/cer4.png",
+                title: "CISCO",
+                detail: "Introduction to Cybersecurity",
+                tech: "Online Class",
+                date: "Oct, 16 2020",
+            },
+            
+            
+        ],
   },
 })
 
