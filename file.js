@@ -24,6 +24,28 @@ var app = new Vue({
             },
             {
                 id: 3,
+                image: "./photo/booking.png",
+                title: "Basic Booking Django",
+                code:"https://github.com/fourthedition/checkin_django",
+                web: "https://drive.google.com/file/d/1I9wWS8uOBpQI4V_Qd5aiVEHIwPCUSThb/view?usp=sharings",
+                detail: "ระบบจัดการจองห้อง ",
+                tech: "Bootstrap",
+                extra:"Python, Django, Postgres",
+                date: "Mar, 12 2020"
+            },
+            {
+                id: 4,
+                image: "./photo/school.png",
+                title: "Check in School Django",
+                code:"https://github.com/fourthedition/checkin_django",
+                web: "https://drive.google.com/file/d/1I9wWS8uOBpQI4V_Qd5aiVEHIwPCUSThb/view?usp=sharings",
+                detail: "ระบบจัดการการเช็คชื่อเข้าออกโรงเรียน ",
+                tech: "Bootstrap",
+                extra:"Python, Django, Postgres",
+                date: "Apr, 24 2020"
+            },
+            {
+                id: 5,
                 image: "./photo/poohbakery.png",
                 title: "POOH BAKERY",
                 code:"https://github.com/fourthedition/POOH-S_BAKERY_WEB_DESIGN",
@@ -33,7 +55,7 @@ var app = new Vue({
                 date: "Apr, 24 2020"
             },
             {
-                id: 4,
+                id: 6,
                 image: "./photo/igclone.png",
                 title: "IG WEB PHISHING  ห้ามกรอกข้อมูล*",
                 code:"https://github.com/fourthedition/igclone_itlaw",
@@ -46,7 +68,7 @@ var app = new Vue({
                 date: "Nov, 14 2020"
             },
             {
-                id: 5,
+                id: 7,
                 image: "./photo/covid.png",
                 title: "COVID-19 TH",
                 code:"https://github.com/fourthedition/Portfolio_Web_MobileApp",
