@@ -11,13 +11,19 @@
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
     <link rel="icon" href="./photo/man.png" />
 </head>
+<style>
+    body {
+        background-color: black;
+    }
+</style>
 
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-lg navbar-dark">
             <a class="navbar-brand" href="index.html">Sirawit B.</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="navbar-nav mr-auto ml-auto">
@@ -27,11 +33,46 @@
                     <a class="nav-item nav-link" href="contact.html">Contact</a>
                 </div>
             </div>
-          </nav>
+        </nav>
 
-        <div class="container text-light">
-<p>fd</p>
+        <div id="carouselExampleSlidesOnly" class="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="./photo/main.png" class="d-block w-100" alt="main page">
+                </div>
+            </div>
         </div>
+        <div class="row text-light">
+            <div class="col-sm-6">
+                <div class="card border-0">
+                    <div class="card-body">
+                        <h5 class="card-title">About Me</h5>
+                        <p class="card-text">ศิรวิทย์ โบศรี กำลังศึกษา คณะเทคโนโลยีสารสนเทศ แขนงวิศวกรรมซอฟต์แวร์ <br> สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</p>
+                        <a href="profile.html" class="btn btn-primary">Detail</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card border-0">
+                    <div class="card-body">
+                        <h5 class="card-title">Project</h5>
+                        <p class="card-text">รวบรวมโปรเจคมากมาย ทั้งด้าน Website, Mobile และ UI/UX Designer <br>ทั้งในและนอกสถานที่เรียน</p>
+                        <a href="portfolio.html" class="btn btn-primary">Detail</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- FOOTER -->
+        <footer class="page-footer font-small text-light">
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                <a href="#"> Sirawit B.</a>
+            </div>
+            <!-- Copyright -->
+        </footer>
 
         <script src="file.js"></script>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
