@@ -57,7 +57,7 @@ var app = new Vue({
             {
                 id: 6,
                 image: "./photo/igclone.png",
-                title: "IG WEB PHISHING  ห้ามกรอกข้อมูล*",
+                title: "IG WEB PHISHING",
                 code:"https://github.com/fourthedition/igclone_itlaw",
                 web: "http://fourthit.pythonanywhere.com/",
                 detail: "เว็บปลอม มีการเก็บฐานข้อมูล Pythonanywhere Hosting",
