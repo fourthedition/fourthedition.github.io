@@ -26,8 +26,8 @@ var app = new Vue({
                 id: 3,
                 image: "./photo/booking.png",
                 title: "Basic Booking Django",
-                code:"https://github.com/fourthedition/checkin_django",
-                web: "https://drive.google.com/file/d/1I9wWS8uOBpQI4V_Qd5aiVEHIwPCUSThb/view?usp=sharings",
+                code:"https://github.com/fourthedition/booking-django",
+                web: "https://drive.google.com/file/d/1OdqiSAbNpPY9YlH1bxKjNvjyAv08v70w/view?usp=sharing",
                 detail: "ระบบจัดการจองห้อง ",
                 tech: "Bootstrap",
                 extra:"Python, Django, Postgres",
@@ -78,6 +78,17 @@ var app = new Vue({
                 extra:"Scrollrevealjs",
                 recommend:"Recommend : PC, Tablet",
                 date: "Nov, 21 2020"
+            },
+            {
+                id: 8,
+                image: "./photo/coming-soon.jpg",
+                title: "Coming Soon",
+                code:"",
+                web: "",
+                detail: "Basic E-Commerce Django",
+                tech: "Bootstrap",
+                extra:"Python, Django, Postgres",
+                date: "Coming Soon"
             },
             
         ],
