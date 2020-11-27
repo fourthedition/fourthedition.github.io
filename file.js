@@ -81,6 +81,17 @@ var app = new Vue({
             },
             {
                 id: 8,
+                image: "./photo/react.png",
+                title: "React Axios",
+                code:"#",
+                web: "#",
+                detail: "Basic React",
+                tech: "Bootstrap",
+                extra:"React",
+                date: "Nov, 27 2020"
+            },
+            {
+                id: 9,
                 image: "./photo/coming-soon.jpg",
                 title: "Coming Soon",
                 code:"",
