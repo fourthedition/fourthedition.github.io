@@ -117,7 +117,7 @@ var app = new Vue({
             {
                 id: 0,
                 image: "./photo/COVID-19 TH.png",
-                title: "COVID-19 TH",
+                title: "COVID-19 TH Ver.2",
                 code:"https://github.com/fourthedition/covid-newnormal-th",
                 web: "https://expo.io/@fourth_edition/projects/COVID-19_TH",
                 detail: "แอพพลิเคชั่น COVID-19 TH ",
