@@ -92,6 +92,16 @@ var app = new Vue({
             },
             {
                 id: 9,
+                image: "./photo/covid2.png",
+                title: "COVID-19 TH Ver.2",
+                code:"https://github.com/fourthedition/COVID-19_TH_TNI",
+                web: "https://fourthedition.github.io/covid_web/",
+                detail: "เว็บนำเสนอโครงแอพลิเคชั่น COVID-19 TH React-Native",
+                tech: "HTML, CSS, Bootstrap5",
+                date: "Jan, 9 2021"
+            },
+            {
+                id: 10,
                 image: "./photo/coming-soon.jpg",
                 title: "Coming Soon",
                 code:"",
