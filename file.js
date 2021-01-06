@@ -126,6 +126,18 @@ var app = new Vue({
                 recommend:"Recommend : IOS",
                 date: "Nov, 22 2020"
             },
+            {
+                id: 1,
+                image: "./photo/covidweb.png",
+                title: "COVID-19 TH",
+                code:"https://github.com/fourthedition/COVID-19_TH_TNI",
+                web: "https://fourthedition.github.io/covid_web/",
+                detail: "แอพพลิเคชั่น COVID-19 TH ",
+                tech: "",
+                extra:"React Native, React, Json Server",
+                recommend:"Recommend : IOS",
+                date: "Dec, 25 2020"
+            },
         ],
 
         designer: [
