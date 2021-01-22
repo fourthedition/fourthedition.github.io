@@ -102,13 +102,24 @@ var app = new Vue({
             },
             {
                 id: 10,
+                image: "./photo/itmart.png",
+                title: "IT MART [Django, AWS]",
+                code:"https://drive.google.com/file/d/1dszceUsBBQN-fPXzA4EZLJKvvilbuFD-/view?usp=sharing",
+                web: "https://drive.google.com/file/d/1dszceUsBBQN-fPXzA4EZLJKvvilbuFD-/view?usp=sharing",
+                detail: "Full-Stack E-Commerce (กำลังพัฒนา) ",
+                tech: "Bootstrap, Python",
+                extra:"Django, AWS",
+                date: "Coming Soon"
+            },
+            {
+                id: 11,
                 image: "./photo/coming-soon.jpg",
                 title: "Coming Soon",
                 code:"",
                 web: "",
-                detail: "Basic E-Commerce Django",
-                tech: "Bootstrap",
-                extra:"Python, Django, Postgres",
+                detail: "Coming Soon",
+                tech: "Coming Soon",
+                extra:"Coming Soon",
                 date: "Coming Soon"
             },
             
