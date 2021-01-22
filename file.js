@@ -109,7 +109,7 @@ var app = new Vue({
                 detail: "Full-Stack E-Commerce (กำลังพัฒนา) ",
                 tech: "Bootstrap, Python",
                 extra:"Django, AWS",
-                date: "Coming Soon"
+                date: "Present (กำลังพัฒนา)"
             },
             {
                 id: 11,
