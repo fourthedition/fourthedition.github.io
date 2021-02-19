@@ -113,6 +113,17 @@ var app = new Vue({
             },
             {
                 id: 11,
+                image: "./photo/spacex.png",
+                title: "SpaceX",
+                code:"https://github.com/fourthedition/SpaceXFullStack",
+                web: "https://spacex-itkmitl.web.app/",
+                detail: "Spacex Website",
+                tech: "React",
+                extra:"Coming Soon",
+                date: "Feb, 19 2021"
+            },
+            {
+                id: 12,
                 image: "./photo/coming-soon.jpg",
                 title: "Coming Soon",
                 code:"",
